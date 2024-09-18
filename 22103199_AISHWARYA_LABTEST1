@@ -1,0 +1,27 @@
+import numpy as np
+import matplotlib.pyplot as plt
+from scipy import signal
+
+aqi_readings =np.linespace(-np.pi,np.pi,1440,endpoint=true)
+noise = np.random.normal(0,1,dip=)
+noise_a =aqi_readings + noise
+print()
+
+def average_aqi()
+
+
+def exceeded_threshold()
+
+
+
+
+
+
+
+
+
+plt
+plt.xlabel('')
+plt.ylabel('')
+plt.legend()
+plt.show()
